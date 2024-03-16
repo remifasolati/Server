@@ -1,0 +1,3 @@
+systemctl start httpd
+systemctl stop firewalld
+setenforce 0
